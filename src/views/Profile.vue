@@ -5,7 +5,7 @@
 </div>
 
   <div class="content">
-
+    <UserProfile />
   </div>
 
 
@@ -16,11 +16,14 @@
 <script>
 import Header from "@/components/Header.vue";
 import Footer from "@/components/Footer.vue";
+import UserProfile from "@/components/UserProfile.vue";
 
 export default {
-  name: 'admin',
+  name: 'profile',
   components: {
+
     Header,
+    UserProfile,
     Footer,
 
   },
