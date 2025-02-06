@@ -7,7 +7,7 @@
         <h1>Track Your <br> Environmental Impact</h1>
         <p>Calculate CO2 emissions and recycle plastic effectively with our innovative tracking tools.</p>
         <div class="action-buttons">
-          <button class="start-btn">Start</button>
+
           <div class="rating">
             <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
             <p>Rated by users</p>
